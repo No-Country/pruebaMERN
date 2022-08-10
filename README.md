@@ -1,7 +1,7 @@
 DISTRIBUCION DE LAS CARPETAS Y ARCHIVOS PRINCIPALES
 ===================================================
 
-src va a tener todo el codigo (front y back)
+src va a tener todo el codigo (front y back) \n 
 src/index.js es el archivo de node js
 src/database.js conecta a la base de datos
 src/routes/ rutas para que la app de front end va a acceder al servidor
